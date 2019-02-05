@@ -1,0 +1,30 @@
+0,COMO CONSIGO SUPERAR LA PRACTICA,*,*,se supera haciendola bien y defendiendola ante el profesor,primera.aiml
+0,COMO SE EVALUA EN LA CONVOCATORIA ORDINARIA,*,*,durante el curso se realizaran dos pruebas. La nota de teoria sera la#Newline        media sobre las dos pruebas.#Newline        Para la parte de practicas se tendra en cuenta la asistencia y participacion#Comma y#Newline        se realizaran tres practicas y un examen de problemas. La nota sera la media de estas#Newline        cuatro pruebas.#Newline        Para aprobar la asignatura hay que sacar un minimo de <set name="notaminima">5</set>de media.,primera.aiml
+0,HAY EXAMEN DE PRACTICAS EN LA CONVOCATORIA EXTRAORDINARIA,*,*,no#Comma habra un examen escrito unico que incluira preguntas de tipo teorico como#Newline        practico que garanticen que el alumno ha adquirido la totalidad de las competencias descritas#Newline        en la guia docente.,primera.aiml
+0,QUE PASA SI NO PUEDO ASISTIR A CLASE REGULARMENTE,*,*,la asistencia a clases teoricas no es obligatoria#Comma pero si recomendable,primera.aiml
+0,HAY NOTA MINIMA PARA APROBAR,*,*,la nota minima para aprobar es un <get name="notaminima"/> de media entre teoria y practica,primera.aiml
+0,^ NOTA MINIMA PARA APROBAR ^,*,*,la nota minima para aprobar es un <get name="notaminima"/> de media entre teoria y practica,primera.aiml
+0,LAS PRACTICAS SON OBLIGATORIAS,*,*,No,primera.aiml
+0,CUANTO VALE CADA PRACTICA CON RESPECTO A LA NOTA FINAL,*,*,la nota sera la media de las 3 practicas y el examen de problemas#Comma esta parte sera el 90#Newline        por ciento de la nota de practicas,primera.aiml
+0,CUANTO VALE LA PARTICIPACION CON RESPECTO A LA NOTA FINAL,*,*,el 10 por ciento,primera.aiml
+0,COMO SE CONSIGUEN PUNTOS POR PARTICIPACION,*,*,participando en clase,primera.aiml
+0,LOS TRABAJOS SON INDIVIDUALES,*,*,si,primera.aiml
+0,HAY QUE ENTREGAR LOS EJERCICIOS DE LAS RELACIONES DE PROBLEMAS,*,*,no#Comma solo las practicas pedidas,primera.aiml
+0,CUANTO VALE EL PRIMER EXAMEN DE TEORIA,*,*,<set name="mitad">50 por ciento</set>,primera.aiml
+0,PUEDO RECUPERAR UNA PRACTICA O EXAMEN,*,*,no#Commael siguiente lo haces mejor y compensas,primera.aiml
+0,QUE PASA SI ME COPIO DE OTRO ESTUDIANTE,*,*,Si te pillan#Comma estas suspenso. Si no te pillan#Comma nada,primera.aiml
+0,QUE PASA SI ME DEJO COPIAR DE OTRO ESTUDIANTE,*,*,<srai>que pasa si me copio de otro estudiante</srai>,primera.aiml
+0,Y SI SUSPENDO EN LA CONVOCATORIA ORDINARIA,*,*,no debes preocuparte#Comma tienes la extraordinaria,primera.aiml
+0,CUANTO VALE LA PRACTICA Y LA TEORIA,*,*,<get name="mitad"/>,primera.aiml
+0,CUAL ES EL HORARIO DE TUTORIAS DEL PROFESOR DE PRACTICAS,*,*,lunes de 10:30 a 13:30 y 17:30 a 18:30 y martes de 10:30 a 12:30,primera.aiml
+0,SE PUEDE APROBAR LA PARTE PRACTICA DE LA ASIGNATURA SI NO PRESENTO UNA PRACTICA,*,*,si,primera.aiml
+0,CUAL ES LA NOTA MINIMA QUE TENGO QUE OBTENER EN CADA PARTE PARA HACER MEDIA,*,*,un 3,primera.aiml
+0,QUE PUNTUACION OBTENGO EN LA PRACTICA 1 SI OPTO POR DEFENDER EL NIVEL 3 Y NO LO SUPERO,*,*,hasta 10 puntos,primera.aiml
+0,PUEDO ENTREGAR LA PRACTICA 1 SIN HACER LA TAREA RELATIVA AL NIVEL 0,*,*,no#Comma es obligatoria,primera.aiml
+0,QUE TENGO QUE HACER SI NO PUEDO ASISTIR A LA SESION DE PRACTICAS EN LA QUE ME CORRESPONDE HACER LA DEFENSA DE MI PRACTICA 1,*,*,hablar con el profesor para concretar otra hora,primera.aiml
+0,CUANTAS PRUEBAS TEORICAS TENDRE A LO LARGO DEL CURSO,*,*,dos,primera.aiml
+0,QUE VALE LA PRIMERA PRUEBA TEORICA,*,*,<srai>cuanto vale la practica y la teoria</srai>,primera.aiml
+0,EN QUE CONSISTE EL EXAMEN DE EJERCICIOS,*,*,te ponen ejercicios#Comma los resuelves#Comma si lo haces bien apruebas,primera.aiml
+0,QUE DEBERIA HACER SI NO ESTOY SEGURO DE PODER SUPERAR EL NIVEL 3 DE LA PRACTICA 1,*,*,defender el nivel 2,primera.aiml
+0,YO PROGRAMO MUY BIEN EN C++, PODRIA HACER LA PRACTICA 1 EN ESE LENGUAJE,*,*,no#Comma se desarrollara en aiml,primera.aiml
+0,ME ENCANTAN LOS AGENTES CONVERSACIONALES Y SOY UN EXPERTO EN SU CONSTRUCCION PODRIA USAR UN AGENTE CONVERSACIONAL PARA QUE VAYAN EN MI LUGAR A HACER LA DEFENSA DE PRACTICAS,*,*,si lo inscribes en la ugr y le creas un robot capaz de ir a clase#Comma si,primera.aiml

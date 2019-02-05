@@ -1,0 +1,24 @@
+<?xml version="1.0"
+encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>es <set>compi</set> un colega tuyo de clase</pattern>
+    <template>Si, <star/> es amiguete mio</template>
+</category>
+
+<category>
+    <pattern>es * un colega tuyo de clase</pattern>
+    <template>No lo visto en mi vida hulio</template>
+</category>
+
+<category>
+    <pattern>de que color tiene los ojos *</pattern>
+    <template>los ojos de <star/> es <map name="ojos"><star/></map>.</template>
+</category>
+
+<category>
+    <pattern> como tiene el pelo *</pattern>
+    <template> <star/> lo tiene <map name="pelo"><star/></map>.</template>
+</category>
+</aiml>

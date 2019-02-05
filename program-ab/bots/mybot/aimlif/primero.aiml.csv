@@ -1,0 +1,4 @@
+0,ES <SET>COMPI</SET> UN COLEGA TUYO DE CLASE,*,*,Si#Comma <star/> es amiguete mio,primero.aiml
+0,ES * UN COLEGA TUYO DE CLASE,*,*,No lo visto en mi vida hulio,primero.aiml
+0,DE QUE COLOR TIENE LOS OJOS *,*,*,los ojos de <star/> es <map name="ojos"><star/></map>.,primero.aiml
+0,COMO TIENE EL PELO *,*,*,<star/> lo tiene <map name="pelo"><star/></map>.,primero.aiml

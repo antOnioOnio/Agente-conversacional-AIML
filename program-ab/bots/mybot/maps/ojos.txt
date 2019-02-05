@@ -1,0 +1,5 @@
+victor:negros
+julio:azules
+paco:amarillos
+pablo:claros
+andres:castaños
